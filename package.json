@@ -1,0 +1,23 @@
+{
+  "name": "koa2Moive",
+  "version": "1.0.0",
+  "description": "使用koa2搭建一个电影网站 # 技术桟 koa2+nodejs+MongoDB+Puppeteer+Parcel+AntDesign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1094549944/koa2Moive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1094549944/koa2Moive/issues"
+  },
+  "homepage": "https://github.com/1094549944/koa2Moive#readme",
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
