@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/1094549944/koa2Moive#readme",
   "dependencies": {
-    "koa": "^2.5.1"
+    "ejs": "^2.6.1",
+    "koa": "^2.5.1",
+    "pug": "^2.0.3"
   }
 }
